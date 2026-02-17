@@ -1,7 +1,7 @@
 # resume-matcher-ai
 # Resume Matcher AI Project
 
-This is a beginner AI project created to understand how Natural Language Processing works.
+This is a AI project created to understand how Natural Language Processing works.
 
 The goal of this project is to compare a resume with a job description and calculate how much they match.
 
